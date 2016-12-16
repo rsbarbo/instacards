@@ -1,0 +1,21 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "creating my first express.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Raphael Barbo",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "figaro": "^0.1.10",
+    "instagram-node": "^0.5.8",
+    "jade": "^1.11.0",
+    "lob": "^3.9.0"
+  }
+}
